@@ -15,7 +15,7 @@ nav{
     top: 0;
     flex-direction:row;
     justify-content: space-between;
-    background-color: rgb(255, 140, 0);
+    background-color: black;
     padding: 1rem;
     height: 20vh;
     width: 100%;
