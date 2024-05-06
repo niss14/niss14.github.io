@@ -16,8 +16,8 @@ function calcularMedia(lista){
 }
 
 switch(false){
-    case false: console.log("soy falso");
-    case true: console.log("soy true")
+    case false: console.log("false");
+    case true: console.log("true")
 }
 
 function crearPersona({
