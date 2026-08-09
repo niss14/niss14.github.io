@@ -5,3 +5,10 @@ platformBrowser().bootstrapModule(AppModule, {
   
 })
   .catch(err => console.error(err));
+
+/*
+  Ojala funcione
+*/
+
+let nodo1 = document.getElementById("id1");
+console.log(nodo1?.innerText);

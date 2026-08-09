@@ -16,7 +16,7 @@
 }
 .nav div{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     padding: 0.5rem
 }
 .nav div div{
@@ -24,9 +24,13 @@
     align-items: flex-end;
 }
 .nav img{
-    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, 
+                rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;;
+}
+.nav div a{
+    color: purple;
 }  
-p:hover{
+.nav div a:hover{
     color: blue;
 }
 .suscribe{
@@ -44,7 +48,8 @@ p:hover{
     text-decoration: none;
     border-radius: 5px;
     color:rgb(233, 58, 58) ;
-    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, 
+                rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;;
 }
 .suscribe:hover{
     border-color: lightgreen;
@@ -55,12 +60,7 @@ p:hover{
     border-color: white;
     color: white;
 }
-/*main{
-    display: flex;
-    padding: 1rem;
-    flex-direction: column;
-    justify-content:space-evenly;
-} */
+
 
 
 /*
