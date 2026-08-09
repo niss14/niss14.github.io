@@ -3,8 +3,7 @@
 //moda el que mas se repite
 const lista1 = [100, 150, 200, 350, 400, 425, 500];
 
-
-
+/*
 function calcularMedia(lista){
     let sumaLista = 0;
     for (let i = 0; i < lista.length;i++){
@@ -36,3 +35,4 @@ function crearPersona({
     
     return public
 }
+    */
