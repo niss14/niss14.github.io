@@ -7,3 +7,90 @@ Unused features html
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet">
 
+
+
+HTML Angular
+<!-- 
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Niss14</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+</head>
+<body>
+  <app-root></app-root>
+</body>
+</html>
+
+-->
+
+
+
+HTML WEB
+<!-- 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <title>github site</title>
+    <link rel="icon" href="img/c50cbb735590aa14566766460be8730733.jpg" type="image/x-icon">
+
+</head>
+<body>
+    <div class="nav">
+
+        <img src="img/fffc3de74ba1d401eda1251465993312.jpg" alt="Green fn" height="100" width="100" srcset="">
+        <a href="https://www.youtube.com/channel/UCsC8usjbcb8DrlvReVhlzng" class="suscribe" target="_blank">Subscribe</a>
+        <div class="navigation-panel">
+
+            //Comentarios van a otra seccion de la pagina
+            <a href="#" target="_blank">Home</a>
+            <a href="https://www.walmart.com" target="_blank">Store</a>
+            <a href="https://www.youtube.com/watch?v=zswT92VzOYM" target="_blank">Guide</a>
+            <a href="https://en.wikipedia.org/wiki/The_Daily_Telegraph" target="_blank">Resources</a>
+
+        </div>
+    </div>
+    <main>
+        <div class="text">
+            La aerodinámica se ha convertido en la clave del éxito en este deporte y los equipos gastan decenas de millones de dólares en investigación y desarrollo en este campo cada año.
+            El diseñador aerodinámico tiene dos preocupaciones principales: la creación de carga aerodinámica, para ayudar a empujar los neumáticos del coche en la pista y mejorar las fuerzas en las curvas; y la minimización de la resistencia que se produce por la turbulencia y actúa para frenar el coche.
+            A finales de los años 60, varios equipos empezaron a experimentar con los ya conocidos alerones. Los alerones de los coches de carreras funcionan según el mismo principio que los de los aviones, pero están configurados para provocar una fuerza descendente en lugar de una ascendente. Un coche de Fórmula 1 moderno es capaz de desarrollar 6 G de fuerza lateral en las curvas[25] gracias a la carga aerodinámica. La carga aerodinámica que permite esto suele ser mayor que el peso del coche. Eso significa que, teóricamente, a altas velocidades, podrían conducir sobre la superficie invertida de una estructura adecuada; por ejemplo, sobre el techo.
+            El uso de la aerodinámica para aumentar el agarre de los coches fue pionero en la Fórmula 1 en la temporada 1968 por parte de Lotus, Ferrari y Brabham. Al principio, Lotus introdujo unos modestos alerones delanteros y un alerón en el Lotus 49B de Graham Hill en el Gran Premio de Mónaco de 1968, y luego Brabham y Ferrari fueron más allá en el Gran Premio de Bélgica de 1968 con alerones de anchura completa montados en puntales por encima del piloto.[26]
+            Los primeros experimentos con alerones móviles y montajes altos provocaron algunos accidentes espectaculares, y para la temporada de 1970 se introdujeron normas para limitar el tamaño y la ubicación de los alerones. Tras haber evolucionado con el tiempo, hoy en día se siguen utilizando normas similares.[26]
+            A finales de la década de 1960, Jim Hall, de Chaparral, introdujo por primera vez el "efecto suelo" en las carreras de coches. A mediados de los años 70, los ingenieros de Lotus descubrieron que se podía hacer que todo el coche actuara como un ala gigante mediante la creación de una superficie aerodinámica en su parte inferior que haría que el aire que se moviera en relación con el coche lo empujara hacia la carretera. Aplicando otra idea de Jim Hall de su corredor deportivo Chaparral 2K, Gordon Murray diseñó el Brabham BT46B, que utilizaba un sistema de ventiladores accionados por separado para extraer el aire de la zona del faldón bajo el coche, creando una enorme carga aerodinámica. Tras los desafíos técnicos de otros equipos, fue retirado después de una sola carrera. A continuación, se introdujeron cambios en el reglamento para limitar las ventajas de los "efectos suelo": primero se prohibieron los faldones utilizados para contener la zona de baja presión y después se exigió un "suelo escalonado".[26]
+            La cubierta del motor trasero del McLaren MP4-21, diseñada para dirigir el flujo de aire hacia el alerón trasero.[25
+        </div>
+        <div class="image-container">
+
+            <img src="img/e947bda76f9b3c4610e4895ba7fa2e3e.jpg" alt="Car" height="200" width="200" srcset="">
+            <img src="img/430b7a6b8fe08b2627b9c4ce1c1d75e7.jpg" alt="alt" height="200" width="200">
+        
+        </div>
+        <div class="cellphone">
+            <div class="top">
+
+            </div>
+            <div class="cellphone-screen">
+                
+                <p>ピーター</p>
+                <div>シティボーイ</div>
+            
+            </div>
+            <div class="foot">
+
+            </div>
+        </div>
+    </main>
+    <script src="./scripts/main.js"></script>
+</body>
+</html>
+
+-->
