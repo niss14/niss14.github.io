@@ -15,4 +15,4 @@ console.log(nodo1?.innerText);
 /**
  * commenta ahhh
  */
-//Text 2
+//Text Correction
