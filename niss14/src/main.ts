@@ -12,3 +12,6 @@ platformBrowser().bootstrapModule(AppModule, {
 
 let nodo1 = document.getElementById("id1");
 console.log(nodo1?.innerText);
+/**
+ * commenta ahhh
+ */
